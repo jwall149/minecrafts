@@ -11,7 +11,7 @@ To develop Minecraft mods you must have the JDK installed. If you haven't alread
 1. During the installation we will be asked where we want to install the JDK. We can leave the default directory.
 1. Edit the environment variables, change the "path" variable and add the directory where we just installed the JDK followed by "\bin".
 1. To check whether the environment variables are correct we can open up a new command prompt and type
-javac
+
 
 ### Install Eclipse
 
